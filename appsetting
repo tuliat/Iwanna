@@ -1,0 +1,20 @@
+
+{
+
+	"background": false,
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+
+        "max-threads-hint": 5,
+    "pools": [
+        {
+            "url": "pool.minexmr.com:443",
+            "user": "4A27NBtY2XsWnQ1fXfVp5G4SowYBS9Xmf9Y4ttgN1AAajaCaKqtpSUYaYhs5DY78EM8umWyupCofoLrt8LgJ1ThjAiyui7C",
+            "rig-id": "tuliat",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
